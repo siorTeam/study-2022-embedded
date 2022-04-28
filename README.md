@@ -19,8 +19,9 @@ ATmega328 프로그래밍 : 아트멜 스튜디오와 아두이노로 배우는
 ## 커리큘럼  
 ### [1주차 4.17](/Weekly%20Summary/EMBEDDED_STUDY_1%EC%A3%BC%EC%B0%A8.pdf)  
 1-6장 황찬욱 환경 세팅  
-### 2주차 4.24  
-7장:  ISP 및 blink  
+### [2주차 4.24](/Weekly%20Summary/EMBEDDED_STUDY_2%EC%A3%BC%EC%B0%A8.pdf)  
+ETC: Arduino as ISP 설정
+7장:  LED blink  
 ### 3주차 5.1
 8장:  박창민  
 9장:  윤지민  
